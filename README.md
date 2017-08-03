@@ -1,1 +1,1 @@
-# cs2-lessons
+# cs1-twitter

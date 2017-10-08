@@ -43,6 +43,7 @@ While Part II is the main part of the assignment where students are asked to det
 * Search for tweets in your zip code on a particular Sunday to count how many tweets there are containing the names of NFL teams to see which teams are most popular with residents in your zip code. 
 
 ### Contact
-Ria.Galanos [at] gmail
-[Thomas Jefferson High School for Science and Technology](http://www.tjhsst.edu)
+Ria Galanos<br>
+[Thomas Jefferson High School for Science and Technology](http://www.tjhsst.edu)<br>
+ria.galanos [at] gmail
 

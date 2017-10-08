@@ -14,7 +14,7 @@
 
 ### Teacher Resources
 
-*  Working solution
+*  [Working solution](Twitter - Teachers/Twitter_Driver.java)
 
 ## Meta Information
 

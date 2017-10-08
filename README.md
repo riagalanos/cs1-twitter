@@ -4,6 +4,17 @@
 
 ## Assignment Materials
 
+### Student Resources
+
+1. Assignment handout
+2. Twitter starter code
+3.  Twitter 4j properties file template
+4.  File of common words
+
+### Teacher Resources
+
+
+
 ## Meta Information
 
 ### Summary

@@ -6,14 +6,15 @@
 
 ### Student Resources
 
-1. Assignment handout
-2. Twitter starter code
-3.  Twitter 4j properties file template
-4.  File of common words
+* Assignment handout
+* Twitter starter code
+*  Twitter 4j properties file template
+*  Twitter 4j jar file
+*  File of common words
 
 ### Teacher Resources
 
-
+*  Working solution
 
 ## Meta Information
 

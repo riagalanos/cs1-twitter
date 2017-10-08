@@ -23,7 +23,7 @@ Topics covered include string manipulation, ArrayLists, sorting, finding maximum
 CS1, early CS2
 
 ### Difficulty
-Medium level of difficulty, with most students completing Parts I and II in 2 - 3 hours. Part III probably would take them 1-2 hours more.
+Medium level of difficulty, with most students completing Parts I and II in 2 - 3 hours. Part III probably takes them 1-2 hours more.
 
 ### Strengths
 

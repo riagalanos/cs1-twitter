@@ -12,10 +12,6 @@
 *  [Twitter 4j jar file](twitter4j-core-4.0.4.jar)
 *  [File of common words](commonWords.txt)
 
-### Teacher Resources
-
-*  [Working solution](Twitter_Driver_Teacher.java)
-
 ## Meta Information
 
 ### Summary

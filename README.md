@@ -1,7 +1,7 @@
 # cs1-twitter
 
 ## Overview
-Did you know that the SIGCSE Symposium Twitter feed has tweeted about #sigcse_2015 more than any other topic in its last 2,000 tweets?  Or that Tiffany Barnes (SIGCSE Symposium 2018 Co-Chair) tweets most often about #csforall?  In this assignment, students have the opportunity to connect their Java programs in their favorite IDE to Twitter to determine some interesting information about particular Twitter feeds.  
+Did you know that the SIGCSE Symposium Twitter feed has tweeted about #sigcse_2015 more than any other topic in its last 2,000 tweets?  Or that Tiffany Barnes (SIGCSE Symposium 2018 Co-Chair) tweets most often about #csforall?  In this assignment, students have the opportunity to connect their Java programs in their favorite IDE to Twitter to determine some interesting information about the Twitter feeds of their choice.  
 
 ## Assignment Materials
 

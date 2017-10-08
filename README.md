@@ -21,8 +21,10 @@
 ### Summary
 
 ### Topics
+Topics covered include string manipulation, ArrayLists, sorting, finding maximum value.
 
 ### Audience
+CS1 / early CS2
 
 ### Difficulty
 

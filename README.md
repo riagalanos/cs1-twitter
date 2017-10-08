@@ -34,6 +34,6 @@ There are 11 steps the students have to work through in order to verify that the
 ### Variants
 
 ### Contact
-[Ria Galanos](mailto:ria.galanos@gmail.com)
+[Ria Galanos](mailto:ria.galanos@gmail.com)<br>
 [Thomas Jefferson High School for Science and Technology](http://www.tjhsst.edu)
 

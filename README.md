@@ -1,27 +1,27 @@
 # cs1-twitter
 
-##Overview
+## Overview
 
-##Assignment Materials
+## Assignment Materials
 
-##Meta Information
+## Meta Information
 
-###Summary
+### Summary
 
-###Topics
+### Topics
 
-###Audience
+### Audience
 
-###Difficulty
+### Difficulty
 
-###Strengths
+### Strengths
 
-###Weaknesses
+### Weaknesses
 Kids who don't want to make their own Twitter accounts.  Twitter being blocked at school.
 
-###Dependencies
+### Dependencies
 
-###Variants
+### Variants
 
-###Contact
+### Contact
 

@@ -35,12 +35,11 @@ CS1, early CS2
 The assignment is written for Java, depends on Internet access (until you choose to use a flat file of tweets), and requires the setting of a classpath to incluce the required jar file.
 
 ### Variants
-While part II is the main part of the assignment where students are asked to determine the most frequent non-common word that a person has tweeted in their last 2,000 tweet, part III is really where the gold is.  Students are asked to devise their own query to investigate something they find interesting using Twitter feeds.  They are to examine the Twitter 4J API to see what methods are available to them and then program their own query.  Examples include, but most definitely are not limited to:
+While Part II is the main part of the assignment where students are asked to determine the most frequent non-common word that a person has tweeted in their last 2,000 tweets, Part III is really where the gold is.  In Part III, students are asked to devise their own query to investigate something they find interesting using Twitter feeds.  They are to examine the Twitter 4J API to see what methods are available to them and then program their own query.  Examples include, but most definitely are not limited to:
 * Filter your home timeline (these are all the tweets from people you follow) to avoid a particular term.  For instance, if you are an Android fan, you could filter out all tweets with Apple in them. 
 * Count the number of tweets originating from your zip code that contain the word “flu" during a particular timeframe to see if a flu outbreak is happening in your area.
 * Send tweets every 10 minutes to your friend on his/her birthday.  Use a timer.  
-* Search for tweets in your zip code on a particular Sunday to categorize how tweets containing the names of the NFL teams to see what teams are most popular with residents in your zip code. 
-
+* Search for tweets in your zip code on a particular Sunday to count how many tweets there are containing the names of NFL teams to see which teams are most popular with residents in your zip code. 
 
 ### Contact
 [Ria Galanos](mailto:ria.galanos@gmail.com)<br>

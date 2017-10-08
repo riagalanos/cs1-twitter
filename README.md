@@ -6,11 +6,11 @@
 
 ### Student Resources
 
-* Assignment handout
-* Twitter starter code
-*  Twitter 4j properties file template
-*  Twitter 4j jar file
-*  File of common words
+* [Assignment handout](Twitter.doc)
+* [Twitter starter code](Twitter_Driver.java)
+*  [Twitter 4j properties file template](twitter4j.properties)
+*  [Twitter 4j jar file](twitter4j-core-4.0.4.jar)
+*  [File of common words](commonWords.txt)
 
 ### Teacher Resources
 

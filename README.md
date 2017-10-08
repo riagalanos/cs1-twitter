@@ -13,9 +13,10 @@
 ## Meta Information
 
 ### Summary
+The Twitter assignment teaches students how to connect their Java programs to a realtime data stream using a freely available API.  They have to apply what they've learned about string manipulation, sorting, ArrayLists, and finding the maximum value in a collection of items in order to achieve the goal of determining a Twitter user's most common non-common word they've tweeted in their last 2,000 tweets.  Aside from practicing the concepts mentioned above, I think the most signifcant outcome of this assignment is that beginning CS students have written a program to interact with other real-world programs, like Twitter.  Once they see how little code is needed to connect a program they create to a program like Twitter, my hope is that they will be empowered to explore other data sources without thinking that is out of reach due to their current ability level as a beginner.
 
 ### Topics
-Topics covered include string manipulation, ArrayLists, sorting, finding maximum value, method decomposition, understanding exisiting code, working with an unfamiliar API.
+Topics covered include string manipulation, ArrayLists, sorting, finding maximum value, method decomposition, understanding existing code, working with an unfamiliar API.
 
 ### Audience
 CS1, early CS2

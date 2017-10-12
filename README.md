@@ -6,10 +6,10 @@ Did you know that the SIGCSE Symposium Twitter feed has tweeted about #sigcse_20
 ## Assignment Materials
 
 * [Assignment handout](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/Twitter.doc)
-* [Twitter starter code](Twitter_Driver.java)
-*  [Twitter 4j properties file template](twitter4j.properties)
-*  [Twitter 4j jar file](twitter4j-core-4.0.4.jar)
-*  [File of common words](commonWords.txt)
+* [Twitter starter code](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/Twitter_Driver.java)
+*  [Twitter 4j properties file template](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/twitter4j.properties)
+*  [Twitter 4j jar file](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/twitter4j-core-4.0.4.jar)
+*  [File of common words](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/commonWords.txt)
 
 ## Meta Information
 

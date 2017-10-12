@@ -26,6 +26,7 @@ CS1, early CS2
 Medium level of difficulty, with most students completing Parts I and II in 2 - 3 hours. Part III probably takes them 1-2 hours more.
 
 ### Strengths
+* High level of engagement
 * Integration of many CS1 principles
 * Real world relevance => task for an intern => research tweets for a company
 

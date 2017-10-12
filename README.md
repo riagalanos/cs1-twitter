@@ -5,7 +5,7 @@ Did you know that the SIGCSE Symposium Twitter feed has tweeted about #sigcse_20
 
 ## Assignment Materials
 
-* [Assignment handout](Twitter - Students/Twitter.doc)
+* [Assignment handout](/Twitter - Students/Twitter.doc)
 * [Twitter starter code](Twitter_Driver.java)
 *  [Twitter 4j properties file template](twitter4j.properties)
 *  [Twitter 4j jar file](twitter4j-core-4.0.4.jar)

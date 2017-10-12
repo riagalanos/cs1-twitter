@@ -9,7 +9,7 @@ Did you know that the SIGCSE Symposium Twitter feed has tweeted about #sigcse_20
 * [Twitter starter code](Twitter_Driver.java)
 *  [Twitter 4j properties file template](twitter4j.properties)
 *  [Twitter 4j jar file](twitter4j-core-4.0.4.jar)
-*  ![File of common words](/cs1-twitter/Twitter - Additional Files/twitter4j-4.0.4/twitter4j-core/twitter4j-core-4.0.4-javadoc.jar)
+*  [File of common words](/Twitter - Additional Files/twitter4j-4.0.4/lib/twitter4j-core-4.0.4.jar)
 
 ## Meta Information
 

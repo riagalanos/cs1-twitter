@@ -1,15 +1,17 @@
 # cs1-twitter
 
 ## Overview
-Did you know that the SIGCSE Symposium Twitter feed has tweeted about #sigcse_2015 more than any other topic in its last 2,000 tweets?  Or that Tiffany Barnes (SIGCSE Symposium 2018 Co-Chair) tweets most often about #csforall?  In this assignment, students have the opportunity to connect their Java programs in their favorite IDE to Twitter to determine some interesting information about the Twitter feeds of their choice.  
+In this assignment, students have the opportunity to connect their Java programs in their favorite IDE to Twitter to determine some interesting information about the Twitter feeds of their choice.  
 
 ## Assignment Materials
 
-* [Assignment handout](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/Twitter.doc)
-* [Twitter starter code](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/Twitter_Driver.java)
-*  [Twitter 4j properties file template](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/twitter4j.properties)
-*  [Twitter 4j jar file](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/twitter4j-core-4.0.4.jar)
-*  [File of common words](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/commonWords.txt)
+* [Assignment handout](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/Twitter%20-%20The%20Assignment.doc)
+* [Twitter warmup shell](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/Twitter_Warmup_shell.java)
+* Test files to practice on: [story.txt](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/story.txt), [test.txt](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/test.txt), [tweets.txt](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/tweets.txt)
+* [Twitter starter code](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/Twitter_Driver_shell.java)
+* [Twitter 4j properties file template](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/twitter4j.properties)
+* [Twitter4j jar file](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/twitter4j-core-4.0.7.jar)
+* [File of common words](https://github.com/riagalanos/cs1-twitter/blob/master/Twitter%20-%20Students/commonWords.txt)
 
 ## Meta Information
 
@@ -37,7 +39,7 @@ Medium level of difficulty, with most students completing Parts I and II in 2 - 
 * Even if students have written their output to a file before, some students find toggling between sending output to the screen or a file challenging.
 
 ### Dependencies
-The assignment is written for Java, depends on Internet access (until you choose to use a flat file of tweets), and requires the setting of a classpath to incluce the required jar file.
+The assignment is written for Java, depends on Internet access (unless you choose to use a flat file of tweets), and requires the setting of a classpath to include the required jar file.
 
 ### Variants
 In Part II, students are asked to determine the most frequent non-common word that a person has tweeted in their last 2,000 tweets.  While Part II is the main part of the assignment, Part III is really where the gold is.  In Part III, students are asked to devise their own query to investigate something they find interesting using Twitter feeds.  They are to examine the Twitter 4J API to see what methods are available to them and then program their own query.  Examples include, but most definitely are not limited to:
